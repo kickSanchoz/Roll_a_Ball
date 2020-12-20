@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//Класс, отвечающий за взаимодействие игрока с главным меню игры
 public class MainMenu : MonoBehaviour
 {
     public void PlayGame()

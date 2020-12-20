@@ -4,7 +4,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
 
-
+//Класс, реализующий управление персонажем, а также подсчет очков и времени прохождения
 public class PlayerController : MonoBehaviour
 {
     public float speed;

@@ -5,6 +5,7 @@ using TMPro;
 using System.IO;
 using System;
 
+//Класс, реализующий сохранение и обновление таблицы рекордов в текстовом файл, а также чтение из этого файла для дальнейшей расстановки
 public class TimePlace : MonoBehaviour
 {
     public TextMeshProUGUI[] timePlace;

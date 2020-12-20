@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//Класс, отвечающий за взаимодействие игрока с элементами интерфейса во время игры
 public class RestartOrExit : MonoBehaviour
 {
     public string sceneName = "GameScene";
